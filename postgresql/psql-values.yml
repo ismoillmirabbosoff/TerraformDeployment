@@ -1,0 +1,6 @@
+global:
+  storageClass: "do-block-storage"
+postgresql:
+  username: "quantum"
+  password: "quantum123"
+  database: "postgres"

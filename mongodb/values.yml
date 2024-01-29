@@ -1,0 +1,17 @@
+global:
+  storageClass: "do-block-storage"
+
+auth:
+  enabled: true
+  rootUser: root
+  rootPassword: "quantum123"
+  usernames: 
+    - quantum
+  passwords: 
+    - quantum123
+  databases: 
+    - admin
+
+  username: "quantum"
+  password: "quantum123"
+  database: "admin"
